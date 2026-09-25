@@ -4,7 +4,7 @@ A responsive SaaS-style admin dashboard built with **React**, **Vite** and **Tai
 
 ## Live Demo
 
-_Coming soon. Add your deployed URL here after deployment._
+https://admin-dashboard-umber-three-34.vercel.app/
 
 
 
